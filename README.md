@@ -109,6 +109,7 @@ Google Drive for dataset hosting
 📘 How to Run
 
 Open notebook_1.ipynb in Google Colab
+Google colan link : https://drive.google.com/file/d/1KYZjF5Z5AzZc5Po10PhnzhCCObqsKMAN/view?usp=sharing
 
 Upload datasets from csv_files/
 
